@@ -1,0 +1,17 @@
+{
+    "name": "local",
+    "port": 3005,
+    "url": "http://localhost:3005",
+    "mongodb": {
+        "uri": "mongodb://localhost:27017/ai_meets",
+        "usr": "",
+        "pwd": ""
+    },
+    "redis": {
+        "host": "127.0.0.1",
+        "port": "6379",
+        "db": "0"
+    },
+   
+    "salt_round": 10
+}
